@@ -29,6 +29,14 @@
 
 </div>
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+
 ---
 
 # 💫 About Me
@@ -284,14 +292,6 @@ Platform Engineer
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikaskumar098&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikaskumar098&theme=tokyonight" />
 </p>
-
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
 
 ---
 
